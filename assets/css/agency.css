@@ -75,7 +75,7 @@ h1, h2, h3, h4, h5, h6 {
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active,
 	.btn-primary.active, .open .dropdown-toggle.btn-primary {
 	color: #fff;
-	background-color: #7e1416;
+	background-color: #777;
 	border-color: #A5A5A5
 }
 

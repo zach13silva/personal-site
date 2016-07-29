@@ -41,7 +41,7 @@ a, a:hover, a:focus, a:active, a.active {
 }
 
 a {
-	color: #fff
+	color: #222
 }
 
 a:hover, a:focus, a:active, a.active {
@@ -111,7 +111,8 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: 700;
 	border-radius: 3px;
 	font-size: 18px;
-	padding: 20px 40px
+	padding: 20px;
+	width: 200px
 }
 
 .btn-xl:hover, .btn-xl:focus, .btn-xl:active, .btn-xl.active, .open .dropdown-toggle.btn-xl

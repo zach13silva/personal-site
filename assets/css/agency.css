@@ -17,11 +17,14 @@ body {
 /*End Added Code*/
 
 .text-muted {
-	color: #777
+	color: #222
 }
 
 .text-primary {
 	color: #7e1416
+}
+.title_name {
+	color:#fff
 }
 
 p {
@@ -38,7 +41,7 @@ a, a:hover, a:focus, a:active, a.active {
 }
 
 a {
-	color: #7e1416
+	color: #fff
 }
 
 a:hover, a:focus, a:active, a.active {
@@ -60,7 +63,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .bg-darkest-gray {
-	background-color: #222
+	background-color: #fff
 }
 
 .btn-primary {
@@ -337,7 +340,7 @@ section h3.section-subheading {
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
-	opacity: 1
+	opacity: 0.5
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content
